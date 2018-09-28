@@ -1,0 +1,11 @@
+The IOP Mass Simulation Data Of C10
+The abundance value of all kinds of IOP elements in the different atom is as follow
+C
+ 12            0.989 
+ 13.00335      0.011 
+The distribution of abundance in C10 is as follow
+  M / Z        Abundance       Spread        Multiplicity
+120.000000    0.89528831    1.00000000           1
+121.003350    0.09957706    0.11122346           1
+122.006700    0.00498389    0.00556680           1
+123.010050    0.00014782    0.00016511           1

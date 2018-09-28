@@ -1,0 +1,14 @@
+The IOP Mass Simulation Data Of C60
+The abundance value of all kinds of IOP elements in the different atom is as follow
+C
+12.000000     0.989000
+13.003350     0.011000
+The distribution of abundance in C60 is as follow
+  M / Z        Abundance       Spread        Multiplicity
+720.000000    0.51496474    1.00000000           1
+721.003350    0.34365696    0.66734075           1
+722.006700    0.11275701    0.21896064           1
+723.010050    0.02424637    0.04708355           1
+724.013400    0.00384289    0.00746243           1
+725.016750    0.00047871    0.00092960           1
+726.020100    0.00004881    0.00009478           1
